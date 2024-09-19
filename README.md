@@ -4,16 +4,17 @@ Turn your **rooted Android smartphone** into a powerful penetration testing tool
 
 ---
 
-## 📖 Table of Contents
-
-- [Network Analysis & Traffic Interception](#network-analysis--traffic-interception)
-- [Vulnerability Scanning & Exploitation](#vulnerability-scanning--exploitation)
-- [Application & System Security Testing](#application--system-security-testing)
-- [Man-in-the-Middle & Spoofing Tools](#man-in-the-middle--spoofing-tools)
-- [Forensics & Reverse Engineering](#forensics--reverse-engineering)
-- [Wi-Fi Cracking & Pentesting](#wi-fi-cracking--pentesting)
-- [Terminal Emulators & Environments](#terminal-emulators--environments)
-- [Additional Tools](#additional-tools)
+## Table of Contents
+- 🌐 [Network Analysis Tools](#network-analysis-tools)
+- 🔓 [Penetration Testing Tools](#penetration-testing-tools)
+- 📶 [Wi-Fi Hacking Tools](#wi-fi-hacking-tools)
+- 📡 [Packet Sniffing Tools](#packet-sniffing-tools)
+- 🔧 [Android Administration & SSH Tools](#android-administration--ssh-tools)
+- 🔐 [Cryptography Tools](#cryptography-tools)
+- 🔨 [Denial of Service (DoS) Tools](#denial-of-service-dos-tools)
+- 🎛️ [HID Attack Tools](#hid-attack-tools)
+- 🕵️‍♂️ [Forensics Tools](#forensics-tools)
+- 🛠️ [Miscellaneous Hacking & Monitoring Tools](#miscellaneous-hacking--monitoring-tools)
 
 ---
 
