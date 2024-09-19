@@ -1,4 +1,4 @@
-# 🛠️ Awesome Pentest Apps for Android Smartphones 🚀
+# 🛠️ Awesome Hacking Apps for Android 🚀
 
 Turn your **rooted Android smartphone** into a powerful penetration testing toolkit! This curated list features some of the best apps to help cybersecurity professionals and enthusiasts test networks, apps, and systems effectively. Remember to use these tools ethically and responsibly.
 
